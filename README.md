@@ -1,5 +1,5 @@
 # food-demo
 this  is my first git repository
 <br>
-author-sahil patel
+author-sahil j. patel
 
